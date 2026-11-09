@@ -1,0 +1,4 @@
+[core]
+    remote = egcarsmodel
+['remote "egcarsmodel"']
+    url = s3://egypt-cars-prediction-model

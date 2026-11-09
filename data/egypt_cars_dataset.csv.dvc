@@ -1,0 +1,5 @@
+outs:
+- md5: 1ec2b86f939547732068a11b660b4438
+  size: 41616
+  hash: md5
+  path: egypt_cars_dataset.csv
